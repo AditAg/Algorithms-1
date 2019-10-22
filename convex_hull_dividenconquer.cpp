@@ -68,7 +68,6 @@ void make_sub_hull(vector< pair<int,int> > v,pair<int,int> mi,pair<int,int> ma,p
 
 int main(){
     int n,i,x,y;
-
     cin >> n;
     vector< pair<int,int> > v;
     for(i=0;i<n;i++){
